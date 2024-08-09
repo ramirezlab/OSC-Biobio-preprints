@@ -20,9 +20,13 @@ Acá encontrarán las presentaciones y el workshop que se realizará el **13 de 
 **Biografía:** David Ramírez es Licenciado en Química de la Universidad Distrital Francisco José de Caldas (Colombia - 2009), Químico Farmacéutico de la Universidad Nacional de Colombia (2012), Doctor en Ciencias aplicadas con énfasis en Biofísica teórica y computacional de la Universidad de Talca (Chile – 2016), y Magíster en Inteligencia Artificial y Big Data de la Universidad Isabel I (España - 2024). Realizó su primer posdoctorado en diseño de fármacos en la Universidad de Talca (Chile), y el segundo posdoctorado estudiando homeostasis de metales en bacterias en el Instituto Politécnico de Massachussets (USA). Hoy en día es profesor del Departamento de Farmacología de la Universidad de Concepción (Chile) donde lidera el Laboratorio de Farmacoinformática y Farmacología de Sistemas. Su trabajo se centra en diseñar alternativas terapéuticas contra enfermedades complejas, principalmente neurodegenerativas, empleando aproximaciones teóricas y experimentales.
 Es vicepresidente de la Sociedad Chilena de Bioinformática (2024 - 2025), co-fundador de la Comunidad de Ciencia Abierta del Bio-Bío (https://osc-international.com/osc-biobio/ ) que hace parte del "International Network of Open Science & Scholarship Communities", donde fomenta activamente el desarrollo de la ciencia abierta en Chile y LATAM.
 
-
-
 ## Links de interés:
 <a href="https://osc-international.com/osc-biobio" target="_blank">OSC-BioBío</a>; <a href="https://elifesciences.org/community" target="_blank">eLife community</a>; <a href="https://asapbio.org" target="_blank">ASAPBio</a>; <a href="https://open-access.network/en/information/publishing/preprints" target="_blank">Preprints</a>; <a href="https://osf.io" target="_blank">Open Science Frame</a>
 
-##Organiza
+## Organiza
+<p align="center">
+  <img src=https://github.com/ramirezlab/OSC-Biobio-preprints/blob/main/Figs/Logo-OSCBiobi%CC%81o-Spanish.png) width="350" title="hover text">
+  <img src=https://github.com/ramirezlab/OSC-Biobio-preprints/blob/main/Figs/Logo-OSCBiobi%CC%81o-Spanish.png) width="350" title="hover text">
+  <img src=https://github.com/ramirezlab/OSC-Biobio-preprints/blob/main/Figs/Logo-OSCBiobi%CC%81o-Spanish.png) width="350" title="hover text">
+</p>
+
