@@ -5,11 +5,13 @@ Acá encontrarán las presentaciones y el workshop que se realizará el **13 de 
 ## Programa
 ### Ciencia Ciudadana - Dr. Rafael Aránguiz (UCSC)
 
+---
 ### Mujeres STEM - Dra. Carola Figueroa (UBB)
 **Título de la charla:** Explorando la Equidad en Ciencia Abierta: Reflexiones de una Mujer en STEM
 
 **Biografía:**  Académica del Departamento de Ciencias de la Computación y Tecnologías de la Información en la Universidad del Bío-Bío, mi investigación se enfoca en el desarrollo de modelos y algoritmos de Inteligencia Artificial inspirados en el cerebro humano, con aplicaciones en áreas críticas como salud, agricultura, medio ambiente y educación. He liderado proyectos destacados, como la creación de modelos para predecir secuelas de accidentes cerebrovasculares, la caracterización de la madurez de arándanos mediante drones, y la detección de fuentes de contaminación utilizando técnicas de búsqueda activa. Cuenta con un Doctorado en Informática, mención Cum Laude, de la Universidad Autónoma de Barcelona, un Magíster en Ciencias de la Computación de la Universidad de Concepción, y el título de Ingeniera Civil en Informática de la Universidad del Bío-Bío. Mis investigaciones han sido publicadas en revistas de alto impacto y participo activamente en la difusión de la IA a nivel nacional e internacional. Además, contribuyó en la regulación de la IA en el Senado y la Biblioteca del Congreso Nacional. En mi tiempo libre, disfruto de correr, hacer senderismo, pasear a mi perrito, leer y cocinar dulces. También cree el podcast "Inteligencia Artificial en tu Idioma", con el objetivo de hacer la IA accesible a estudiantes de pregrado en Ingeniería Civil en Informática  de la UBB y a la comunidad
 
+---
 
 ### Preprints 1 - Dra. Carolina Quezada (UCSC)
 
