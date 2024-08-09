@@ -25,7 +25,7 @@ Es vicepresidente de la Sociedad Chilena de Bioinformática (2024 - 2025), co-fu
 
 ## Organiza
 <p align="center">
-  <img src=https://github.com/ramirezlab/OSC-Biobio-preprints/blob/main/Figs/Logo-OSCBiobi%CC%81o-Spanish.png) width="350" title="hover text">
+  <img src=/Figs/Logo-OSCBiobio-Spanish.png width="350" title="hover text">
   <img src=https://github.com/ramirezlab/OSC-Biobio-preprints/blob/main/Figs/Logo-OSCBiobi%CC%81o-Spanish.png) width="350" title="hover text">
   <img src=https://github.com/ramirezlab/OSC-Biobio-preprints/blob/main/Figs/Logo-OSCBiobi%CC%81o-Spanish.png) width="350" title="hover text">
 </p>
