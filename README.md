@@ -2,7 +2,7 @@
 
 Acá encontrarán las presentaciones y el workshop que se realizará el **13 de agosto de 2024**. Además de algunos links de interés para que se unan a la Comunidad de Ciencia Abierta del BioBío (OSC-BioBío) y otras comunidades que trabajan activamente para promover la Ciencia Abierta.
 
-##Programa
+## Programa
 ### Ciencia Ciudadana - Dr. Rafael Aránguiz (UCSC)
 
 ### Mujeres STEM - Dra. Carola Figueroa (UBB)
