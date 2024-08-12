@@ -4,6 +4,8 @@ Acá encontrarán las presentaciones y el workshop que se realizará el **13 de 
 
 ## Programa
 ### Ciencia Ciudadana - Dr. Rafael Aránguiz (UCSC)
+**Título de la charla:** Desafíos y ejemplos de Ciencia Ciudadana
+**Biografía:**  Ingeniero Civil de la Universidad de Concepción, Magister en Ingeniería de Costas por la Universidad Técnica de Dinamarca y Doctor en Ingeniería por la Universidad de Waseda, Japón. Académico del Departamento de Ingeniería Civil de la UCSC y Jefe de Programa del Doctorado en Ingeniería. Investigador del Centro de Investigación para la Gestión Integrada del Riesgo de Desastres, CIGIDEN. Su línea de Investigación se relacionan con el impacto de tsunamis en comunidades costeras, y actualmente ejecuta un proyecto FONDECYT como investigador responsable sobre socavación por tsunami en edificaciones costeras y otro como coinvestigador sobre Resiliencia comunitaria ante tsunami en la costa chilena.
 
 ---
 ### Mujeres STEM - Dra. Carola Figueroa (UBB)
@@ -14,11 +16,11 @@ Acá encontrarán las presentaciones y el workshop que se realizará el **13 de 
 ---
 
 ### Preprints 1 - Dra. Carolina Quezada (UCSC)
+**Título de la charla:** Someter preprints en ciencia biológicas.
+**Biografía:** Carolina Quezada es Bioquímica y Magíster en Bioquímica de la Universidad de Chile (2009), y Doctora en Biotecnología de la Universidad de Manchester (Reino Unido, 2016). Actualmente es profesora asistente del Departamento de Química Ambiental de la Universidad Católica de la Santísima Concepción. Sus líneas de investigación están relacionadas con biosíntesis de nanopartículas utilizando microorganismos y el desarrollo de nuevos materiales antimicrobianos. Fue miembro del grupo de investigadores jóvenes asesores de la editorial eLife (ECAG 2019-2023) y actualmente es miembro de la comunidad internacional “Translate Science” y co-fundadora de la Comunidad de Ciencia Abierta del Bío-Bío (OSCBiobio) que hace parte del "International Network of Open Science & Scholarship Communities" (INOSC), donde fomenta activamente el desarrollo de la ciencia abierta en la región del Bío-Bío, Chile y LATAM.
 
 ### Preprints 2 - Dr. David Ramírez (UdeC)
-
 **Título de la charla:** New challenges to publish science in Chile.
-
 **Biografía:** David Ramírez es Licenciado en Química de la Universidad Distrital Francisco José de Caldas (Colombia - 2009), Químico Farmacéutico de la Universidad Nacional de Colombia (2012), Doctor en Ciencias aplicadas con énfasis en Biofísica teórica y computacional de la Universidad de Talca (Chile – 2016), y Magíster en Inteligencia Artificial y Big Data de la Universidad Isabel I (España - 2024). Realizó su primer posdoctorado en diseño de fármacos en la Universidad de Talca (Chile), y el segundo posdoctorado estudiando homeostasis de metales en bacterias en el Instituto Politécnico de Massachussets (USA). Hoy en día es profesor del Departamento de Farmacología de la Universidad de Concepción (Chile) donde lidera el Laboratorio de Farmacoinformática y Farmacología de Sistemas. Su trabajo se centra en diseñar alternativas terapéuticas contra enfermedades complejas, principalmente neurodegenerativas, empleando aproximaciones teóricas y experimentales.
 Es vicepresidente de la Sociedad Chilena de Bioinformática (2024 - 2025), co-fundador de la Comunidad de Ciencia Abierta del Bio-Bío (https://osc-international.com/osc-biobio/ ) que hace parte del "International Network of Open Science & Scholarship Communities", donde fomenta activamente el desarrollo de la ciencia abierta en Chile y LATAM.
 
